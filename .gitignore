@@ -1,0 +1,8 @@
+*~
+__pycache__
+
+notebooks/
+.ipynb_checkpoints
+.mypy_cache
+.pytest_cache
+*.lprof
